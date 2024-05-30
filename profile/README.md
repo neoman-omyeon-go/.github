@@ -10,6 +10,10 @@
 - 이재호(AI)
 
 
+## 시연동영상
+https://youtu.be/5spIMh7CQFc
+
+
 ## contact
 김대현: rlaeogus9269@naver.com
 
