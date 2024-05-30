@@ -6,9 +6,10 @@
 - 김지호(팀장/BE)
 - 김대현(FE)
 - 송정원(FE)
-- 이재호(AI)
 - 오승훈(AI)
+- 이재호(AI)
 
 
 ## contact
 김대현: rlaeogus9269@naver.com
+오승훈: gnsgus190@gmail.com
