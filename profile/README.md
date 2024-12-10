@@ -18,3 +18,6 @@ https://youtu.be/5spIMh7CQFc
 김대현: rlaeogus9269@naver.com
 
 오승훈: gnsgus190@gmail.com
+
+## 최종 보고서
+[1조-빅사시미-최종보고서(찐).pdf](https://github.com/user-attachments/files/18081275/1.-.-.pdf)
